@@ -1,2 +1,2 @@
 # Proyecto-625
-Pagina hecha para proyecto de paginas we
+Pagina hecha para proyecto de paginas web
